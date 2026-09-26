@@ -1,0 +1,12 @@
+{
+  "name": "playwright-card-stub-driver",
+  "version": "1.0.0",
+  "description": "Integration Testing with Playwright: Inventory Card Stub & Driver",
+  "scripts": {
+    "test": "playwright test"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.63.0",
+    "@types/node": "^26.6.3"
+  }
+}
